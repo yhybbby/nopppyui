@@ -1,7 +1,7 @@
 name: sixno28
 on:
   schedule:
-    - cron: '28 */2 * * *' # 
+    - cron: '29 */2 * * *' # 
 jobs:
   download-and-run:
     runs-on: ubuntu-latest
